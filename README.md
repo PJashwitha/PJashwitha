@@ -1,16 +1,20 @@
-## Hi there 👋
+## Number Guessing Game
 
-<!--
-**PJashwitha/PJashwitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A terminal - based python game where the player guesses a randomly generated number.
 
-Here are some ideas to get you started:
+## Features
+1. Generates a random target number using Python's "random" module.
+2. Tracks the number of attempts taken to guess correctly.
+3. Provides the feedback on whether the guess is too high or too low.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Language**:Python
+
+## How to RUn
+1. Make sure python is installed on your machine.
+2. Run the script in your terminal:
+   ```bash
+   python guessinggame.py
+   
+
+   
